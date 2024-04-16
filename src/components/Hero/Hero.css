@@ -1,0 +1,215 @@
+.best{
+  font-size: 40px;
+  margin-top: 80px ;
+  margin-left: 60px;
+   color: chocolate;
+}
+
+h4{
+  font-style: unset ;
+   font-weight: lighter;
+  margin-top: 20px ;
+  margin-left: 60px;
+  line-height: 34px;
+}
+.image{
+  margin-top: -350px;
+  height: 400px;
+  margin-left: 1000px ;
+}
+.learn{
+  margin-left: -1235px;
+}
+
+.new{
+  color: chocolate;
+  margin-top: 180px;
+  margin-left: 280px;
+  font-size: 50px;
+}
+
+h5{
+  font-style: unset ;
+  font-weight: lighter;
+  font-size: 16px;
+  margin-left: 370px;
+}
+.card{
+  margin-top: 50px;
+  margin-left: 80px;
+  width: 18rem;
+  background-color: rgb(253, 235, 225);
+  width: 250px;
+  height: 320px;
+  text-align: center;
+}
+.card2{
+  margin-top: -320px;
+  margin-left: 360px;
+  width: 18rem;
+  background-color: rgb(253, 235, 225);
+  width: 250px;
+  height: 320px;
+  text-align: center;
+}
+.card3{
+  margin-top: -320px;
+  margin-left: 645px;
+  width: 18rem;
+  background-color: rgb(253, 235, 225);
+  width: 250px;
+  height: 320px;
+  text-align: center;
+}
+.card4{
+  margin-top: -320px;
+  margin-left: 920px;
+  width: 18rem;
+  background-color: rgb(253, 235, 225);
+  width: 250px;
+  height: 320px;
+  text-align: center;
+}
+.card p {
+  margin-top: 30px;
+  color: chocolate;
+  font-family: cursive;
+  font-weight: 500;
+}
+.card2 p {
+  margin-top: 30px;
+  color: chocolate;
+  font-family: cursive;
+  font-weight: 500;
+}
+.card3 p {
+  margin-top: 30px;
+  color: chocolate;
+  font-family: cursive;
+  font-weight: 500;
+}
+.card4 p {
+  margin-top: 30px;
+  color: chocolate;
+  font-family: cursive;
+  font-weight: 500;
+}
+h6{
+  font-family: cursive;
+  color: black;
+  text-align: center;
+  margin-top: 17px;
+  font-size: 15px;
+}
+
+.car1{
+  margin-left: -0px;
+  margin-top: 15px;
+}
+.car2{
+  margin-left: -0px;
+  margin-top: 15px;
+}
+.car3{
+  margin-left: -0px;
+  margin-top: 15px;
+}
+.car4{
+  margin-left: -0px;
+  margin-top: 15px;
+}
+.img2{
+  background-size: contain;
+    background-size: 1400px;
+    height: 450px;
+  background-repeat: no-repeat;
+    background-image: url(https://s3-us-west-2.amazonaws.com/utsw-patientcare-web-production/original_images/coffee_heart_600.jpg);
+}
+
+.get {
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  margin-top: 250px;
+  margin-left: 100px;
+  }
+
+  
+
+  .pe{
+    margin-top: 30px;
+  margin-left: 160px;
+  line-height: 34px;
+  color: white;
+  }
+  .fon{
+    margin-top: 20px;
+    margin-left : 160px;
+  }
+
+  .our{
+    color: chocolate;
+    margin-top: 150px;
+    margin-left: 300px;
+    font-size: 50px;
+  }
+
+.custom{
+  font-size: 15px;
+  margin-left: 500px;
+}
+
+.card6{
+  margin-top: 100px;
+  margin-left: 200px;
+  width: 1000px;
+  height: 524px;
+  background-color: rgb(253, 235, 225) ;
+ 
+}
+.card-body2{
+  text-align: center;
+  font-size: 20px;
+  line-height: 34px;
+  color:  #707070;
+  ;
+}
+
+.jonny{
+  color: chocolate;
+  font-size: 25px;
+  margin-top: 40px;
+  margin-left: 350px;
+}
+.manager{
+  margin-left: 440px;
+  font-size: 15px;
+}
+.image33{
+   margin-top: 50px;
+   margin-left: 450px;
+   border-radius: 15px;
+}
+.card8{
+  font-size: 30px;
+  width: 100px;
+  height: 50px;
+  border-radius: 20px;
+  margin-left: 950px ;
+  margin-top: -70px;
+  align-items: center;
+  color: white;
+  background-color: chocolate;
+  
+}
+.card9{
+  font-size: 30px;
+  width: 100px;
+  height: 50px;
+  border-radius: 20px;
+  margin-left: -50px ;
+  margin-top: -50px;
+  align-items: center;
+  color: white;
+  background-color: chocolate;
+  
+}

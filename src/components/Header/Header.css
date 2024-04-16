@@ -1,0 +1,90 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  
+}
+
+section{
+  width: 100%;
+  background-image: url(https://t4.ftcdn.net/jpg/01/05/90/77/360_F_105907729_4RzHYsHJ2UFt5koUI19fc6VzyFPEjeXe.jpg);
+  background-repeat: no-repeat;
+  background-size: 1380px;
+  display: flex;
+  height: 700px;
+}
+
+header{
+  max-width: 1400px;
+  width: 100%;
+  align-items: center;
+}
+
+nav{
+  align-items: center;
+  margin-left: 70px;
+}
+
+h1{
+  text-align: center;
+  margin: 20px 0px;
+  font-size: 25px;
+  color: white;
+  display: inline-block;
+  font-family: cursive;
+  font-weight: 50;
+  
+}
+ul{
+align-items:center;
+  display: inline-block;
+  margin-left: 180px;
+}
+
+li{
+text-align: center  ;
+  list-style: none;
+  display: inline-block;
+}
+
+li a{
+  padding: 10px 20px;
+  text-decoration: none;
+  color: white;
+}
+
+button{
+  margin-left: 200px;
+  width:100px;
+  height: 35px;
+  border-radius: 50px;
+  color: white;
+  background-color: chocolate;
+  border: none;
+
+
+}
+.hello{
+  font-weight: 100;
+  padding: 0px 60px ;
+  margin-top: 100px;
+}
+h2{
+  font-size: 150px;
+  color: white;
+  font-family: cursive;
+  font-weight: 100;
+  padding: 0px 60px ;
+   
+  }
+
+  h3{
+    color: white;
+    font-weight: 100;
+    padding: 20px 60px ;
+  }
+  .order{
+    margin-top: 20px;
+    margin-left: 55px;
+    height: 40px;
+  }
